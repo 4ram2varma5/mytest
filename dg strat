@@ -1,37 +1,91 @@
-Enterprise Information Management (EIM) within a Medicaid insurance company focusing on Reference Data Management (RDM) and Master Data Management (MDM) is crucial for ensuring efficient operations, regulatory compliance, and improved customer service. Here's a strategy outline for implementing EIM with a focus on RDM and MDM:
 
-Assessment and Planning:
+Title: Survey Questionnaire on Barriers to Transitioning from Hadoop and SAS to Databricks
 
-Conduct a comprehensive assessment of existing data management practices, systems, and challenges.
-Define clear objectives for EIM implementation, considering business needs, compliance requirements, and customer service goals.
-Develop a roadmap outlining key milestones, timelines, and resource requirements for implementing RDM and MDM.
-Governance Framework:
+Introduction:
+Thank you for participating in this survey. The purpose of this questionnaire is to gather insights into the barriers that organizations may face when transitioning from Hadoop and SAS to Databricks. Your responses will help in understanding the challenges better and finding potential solutions. This survey is anonymous, and your honest feedback is highly valued.
 
-Establish a governance framework with clear roles, responsibilities, and decision-making processes for data management.
-Define data ownership and stewardship roles to ensure accountability and oversight throughout the data lifecycle.
-Implement policies and procedures for data quality management, metadata management, and data security.
-Reference Data Management (RDM):
+Section 1: Demographic Information
 
-Identify critical reference data elements such as diagnosis codes, procedure codes, provider information, etc., used across the organization.
-Implement a centralized RDM solution to manage reference data definitions, hierarchies, and relationships.
-Establish processes for maintaining and updating reference data to ensure accuracy and consistency across systems and applications.
-Integrate RDM into key business processes such as claims processing, provider network management, and member enrollment.
-Master Data Management (MDM):
+What is your current role within your organization?
 
-Identify core master data domains such as member, provider, claims, and benefits.
-Develop a comprehensive data model that defines the structure and relationships of master data entities.
-Implement an MDM platform to centralize master data storage, maintenance, and distribution.
-Establish data governance policies and workflows for managing master data creation, updates, and reconciliation.
-Integrate MDM with other enterprise systems such as CRM, billing, and analytics to ensure consistent data across the organization.
-Data Quality and Compliance:
+Data Analyst
+Data Scientist
+Data Engineer
+IT Professional
+Manager/Executive
+Other (please specify)
+How long has your organization been using Hadoop and SAS for data processing and analytics?
 
-Implement data quality monitoring tools and processes to proactively identify and address data anomalies and errors.
-Conduct regular audits and assessments to ensure compliance with regulatory requirements such as HIPAA, HITECH, and CMS guidelines.
-Implement data privacy and security measures to protect sensitive information and mitigate data breaches.
-Provide ongoing training and awareness programs to educate employees about data management best practices and compliance requirements.
-Continuous Improvement:
+Less than 1 year
+1-2 years
+2-5 years
+More than 5 years
+Not applicable
+How familiar are you with Databricks?
 
-Establish key performance indicators (KPIs) to measure the effectiveness of EIM initiatives, such as data accuracy, timeliness, and compliance.
-Conduct regular reviews and assessments to identify areas for improvement and optimization.
-Continuously monitor industry trends and emerging technologies to identify opportunities for innovation and enhancement.
-Foster a culture of data-driven decision-making and continuous improvement across the organization.
+Very familiar
+Somewhat familiar
+Not familiar at all
+Section 2: Perceived Barriers to Transitioning to Databricks
+Please indicate the extent to which you agree or disagree with the following statements regarding the barriers to transitioning from Hadoop and SAS to Databricks.
+
+Learning Curve:
+
+The learning curve for Databricks is perceived to be steep.
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+Data Migration Complexity:
+
+Migrating data from Hadoop and SAS to Databricks is perceived to be complex.
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+Compatibility Issues:
+
+Concerns exist regarding compatibility between existing systems/tools and Databricks.
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+Cost Concerns:
+
+Cost considerations are a significant barrier to adopting Databricks.
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+Lack of Support/Resources:
+
+There is a perceived lack of support or resources for implementing Databricks within the organization.
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+Regulatory/Compliance Challenges:
+
+Concerns exist about regulatory or compliance issues related to transitioning to Databricks.
+Strongly Agree
+Agree
+Neutral
+Disagree
+Strongly Disagree
+Section 3: Additional Comments
+10. Please provide any additional comments or insights regarding the barriers your organization faces in transitioning from Hadoop and SAS to Databricks.
+
+Section 4: Conclusion
+11. Would you be interested in receiving more information or assistance regarding the transition to Databricks?
+- Yes
+- No
+
+Would you be willing to participate in a follow-up interview to discuss your responses in more detail?
+Yes
+No
+Thank you for taking the time to complete this survey. Your input is highly appreciated and will contribute to the understanding of challenges in transitioning to Databricks.
