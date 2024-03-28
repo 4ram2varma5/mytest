@@ -1,91 +1,25 @@
+Service Level Agreements (SLAs):
 
-Title: Survey Questionnaire on Barriers to Transitioning from Hadoop and SAS to Databricks
+Availability: Define the percentage of uptime guaranteed for the cloud data lake service. For example, 99.9% uptime.
+Performance: Specify response times for queries and data access.
+Scalability: Define how the service scales in response to increased demand.
+Data Durability: Guarantee the durability of data stored in the data lake, typically measured in terms of data loss over time.
+Support: Outline the level of support provided by the cloud service provider for any issues or inquiries.
+Security: Detail the security measures in place to protect data in transit and at rest.
+Data Catalog Requirements:
 
-Introduction:
-Thank you for participating in this survey. The purpose of this questionnaire is to gather insights into the barriers that organizations may face when transitioning from Hadoop and SAS to Databricks. Your responses will help in understanding the challenges better and finding potential solutions. This survey is anonymous, and your honest feedback is highly valued.
+Metadata Management: Ability to capture, store, and manage metadata for all data assets within the data lake.
+Data Discovery: Facilitate easy discovery of data assets by users through search and browsing capabilities.
+Data Lineage: Track the origins, transformations, and movement of data within the data lake.
+Data Quality: Provide mechanisms for assessing and maintaining data quality, including data profiling and data cleansing capabilities.
+Access Control: Implement fine-grained access controls to ensure that only authorized users can view and interact with specific data assets.
+Integration: Support integration with other data management tools and platforms, such as data governance tools and analytics platforms.
+Collaboration: Enable collaboration features to allow users to annotate, tag, and share data assets with others.
+Other Requirements:
 
-Section 1: Demographic Information
-
-What is your current role within your organization?
-
-Data Analyst
-Data Scientist
-Data Engineer
-IT Professional
-Manager/Executive
-Other (please specify)
-How long has your organization been using Hadoop and SAS for data processing and analytics?
-
-Less than 1 year
-1-2 years
-2-5 years
-More than 5 years
-Not applicable
-How familiar are you with Databricks?
-
-Very familiar
-Somewhat familiar
-Not familiar at all
-Section 2: Perceived Barriers to Transitioning to Databricks
-Please indicate the extent to which you agree or disagree with the following statements regarding the barriers to transitioning from Hadoop and SAS to Databricks.
-
-Learning Curve:
-
-The learning curve for Databricks is perceived to be steep.
-Strongly Agree
-Agree
-Neutral
-Disagree
-Strongly Disagree
-Data Migration Complexity:
-
-Migrating data from Hadoop and SAS to Databricks is perceived to be complex.
-Strongly Agree
-Agree
-Neutral
-Disagree
-Strongly Disagree
-Compatibility Issues:
-
-Concerns exist regarding compatibility between existing systems/tools and Databricks.
-Strongly Agree
-Agree
-Neutral
-Disagree
-Strongly Disagree
-Cost Concerns:
-
-Cost considerations are a significant barrier to adopting Databricks.
-Strongly Agree
-Agree
-Neutral
-Disagree
-Strongly Disagree
-Lack of Support/Resources:
-
-There is a perceived lack of support or resources for implementing Databricks within the organization.
-Strongly Agree
-Agree
-Neutral
-Disagree
-Strongly Disagree
-Regulatory/Compliance Challenges:
-
-Concerns exist about regulatory or compliance issues related to transitioning to Databricks.
-Strongly Agree
-Agree
-Neutral
-Disagree
-Strongly Disagree
-Section 3: Additional Comments
-10. Please provide any additional comments or insights regarding the barriers your organization faces in transitioning from Hadoop and SAS to Databricks.
-
-Section 4: Conclusion
-11. Would you be interested in receiving more information or assistance regarding the transition to Databricks?
-- Yes
-- No
-
-Would you be willing to participate in a follow-up interview to discuss your responses in more detail?
-Yes
-No
-Thank you for taking the time to complete this survey. Your input is highly appreciated and will contribute to the understanding of challenges in transitioning to Databricks.
+Data Ingestion: Support various methods of data ingestion, including batch and real-time streaming.
+Data Transformation: Provide tools and services for transforming raw data into a usable format for analysis and reporting.
+Data Governance: Implement policies and procedures for managing data quality, security, and compliance within the data lake.
+Cost Management: Offer features for monitoring and optimizing costs associated with storage and processing resources.
+Interoperability: Ensure compatibility with existing data management systems and tools to facilitate integration and data exchange.
+Disaster Recovery: Implement mechanisms for backup and disaster recovery to minimize the risk of data loss in the event of a failure or outage.
