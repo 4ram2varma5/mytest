@@ -168,3 +168,55 @@ Cost Efficiency:
 KPIs: Total cost of ownership (TCO), return on investment (ROI), cost per analysis.
 Personas: Finance team, budget managers, procurement specialists.
 By focusing on these detailed aspects, tracking relevant KPIs, and catering to specific personas, the rollout of OHDSI Atlas can be tailored to meet the diverse needs of users within the group while ensuring maximum adoption and impact.
+Purpose
+The purpose of this project is to establish a framework and process for handling rapid analytics requests pertaining to real-world evidence (RWE). RWE plays a crucial role in informing decision-making processes in various sectors, including healthcare, pharmaceuticals, and public policy. By creating a streamlined approach to address rapid analytics requests, this project aims to improve the efficiency, accuracy, and timeliness of delivering actionable insights derived from real-world data.
+
+Objectives
+a. Develop a standardized process for receiving, prioritizing, and executing rapid analytics requests related to real-world evidence.
+b. Establish clear criteria for assessing the feasibility and impact of each request, considering factors such as data availability, relevance, and urgency.
+c. Build a cross-functional team comprising data scientists, domain experts, project managers, and IT professionals to collaborate on rapid analytics projects.
+d. Implement tools, technologies, and infrastructure necessary to support expedited data analysis and reporting.
+e. Ensure compliance with relevant regulatory requirements, data privacy laws, and ethical guidelines throughout the project lifecycle.
+f. Provide regular updates and communication channels for stakeholders to track the progress of rapid analytics requests.
+
+Scope
+a. In-scope:
+i. Rapid analytics requests related to real-world evidence across various domains, including but not limited to healthcare outcomes, patient safety, epidemiology, and health economics.
+ii. Development of a prioritization framework to assess the urgency and impact of each request.
+iii. Creation of a centralized repository for storing and managing real-world data assets.
+iv. Implementation of data processing pipelines, analytical models, and visualization tools to expedite the analysis and reporting process.
+v. Training and capacity building for team members involved in executing rapid analytics projects.
+b. Out-of-scope:
+i. Long-term research projects or extensive data analysis initiatives not classified as rapid analytics requests.
+ii. Procurement or development of new data sources beyond the existing scope of real-world evidence.
+
+Deliverables
+a. Standardized process documentation outlining the workflow for handling rapid analytics requests, including request submission, review, prioritization, execution, and reporting.
+b. Prioritization framework detailing the criteria used to evaluate and prioritize rapid analytics requests.
+c. Centralized repository for storing and managing real-world data assets, with appropriate access controls and data governance protocols.
+d. Data processing pipelines, analytical models, and visualization tools customized to address rapid analytics requirements.
+e. Training materials and sessions to upskill team members on relevant tools, technologies, and methodologies.
+f. Regular status reports and dashboards to provide stakeholders with visibility into the progress and outcomes of rapid analytics projects.
+
+Assumptions
+a. Availability of necessary data sources, either internally collected or obtained from external sources, to fulfill rapid analytics requests.
+b. Adequate resources, including personnel, budget, and infrastructure, allocated for implementing and maintaining the project deliverables.
+c. Cooperation and support from key stakeholders, including business units, IT departments, legal/compliance teams, and external partners.
+
+Constraints
+a. Time constraints: Rapid analytics requests must be completed within tight timelines to meet the needs of stakeholders.
+b. Resource limitations: The project will operate within the constraints of available resources, including budget, personnel, and technology.
+c. Regulatory compliance: All activities must adhere to relevant regulatory requirements, data privacy laws, and ethical guidelines.
+
+Stakeholders
+a. Project Sponsor: [Insert Name]
+b. Project Manager: [Insert Name]
+c. Data Scientists and Analysts
+d. Domain Experts (e.g., Healthcare Professionals, Epidemiologists)
+e. IT Professionals (e.g., Database Administrators, Software Engineers)
+f. Business Stakeholders (e.g., Decision-makers, Policy Analysts)
+g. Legal and Compliance Teams
+h. External Partners (if applicable)
+
+Approval
+This project charter is approved by the undersigned stakeholders, indicating their commitment to the objectives, scope, and deliverables outlined herein.
